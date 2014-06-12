@@ -1,4 +1,6 @@
 asura_PSSM
 ==========
 
-Parallel Split Shadow Map
+Parallel Split Shadow Mapのサンプルプログラムです。  
+  
+![サンプル](./doc/images/PSSM_001.png)  
